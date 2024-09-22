@@ -1,4 +1,5 @@
-﻿namespace tyuiu.KushnirS.sprint0.task1.v0
+﻿
+namespace tyuiu.KushnirS.sprint0.task1.v0
 {
     internal class Program
     {
