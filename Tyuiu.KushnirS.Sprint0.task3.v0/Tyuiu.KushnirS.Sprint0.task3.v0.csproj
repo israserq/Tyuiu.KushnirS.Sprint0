@@ -8,12 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.KushnirS.Sprint0.task2.v0.lib\Tyuiu.KushnirS.Sprint0.task2.v0.lib.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="NewFolder1\" />
-    <Folder Include="NewFolder\" />
+    <ProjectReference Include="..\Tyuiu.KushnirS.Sprint0.task3.v0.lib\Tyuiu.KushnirS.Sprint0.task3.v0.lib.csproj" />
   </ItemGroup>
 
 </Project>
