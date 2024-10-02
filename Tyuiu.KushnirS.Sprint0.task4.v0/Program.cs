@@ -11,6 +11,7 @@ namespace Tyuiu.KushnirS.Sprint0.task4.v0
             Console.WriteLine(DataService.Del(5, 5));
             Console.WriteLine(DataService.Mult(1, 5));
             Console.ReadKey();
+            
         }
     }
 }
